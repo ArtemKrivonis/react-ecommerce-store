@@ -10,13 +10,9 @@ Check out the deployed project online.
 ## 🖥️ Technologies Used
 
 - **React** – Component-based UI development
-- **Redux Toolkit & React-Redux** – Efficient state management
 - **React Router v6** – Seamless navigation between pages
 - **SCSS (BEM methodology)** – Modular and maintainable styling
-- **Bulma CSS framework** – Pre-styled UI components
-- **Swiper & Slick Carousel** – Interactive sliders
-- **Font Awesome, Lucide React** – Icon libraries
-- **React Spinners, React Transition Group** – Loaders and smooth animations
+- **Slick Carousel** – Interactive sliders
 
 ## Getting Started
 
@@ -27,7 +23,7 @@ Follow the steps below to run the project locally:
 ```bash
 git clone https://github.com/ArtemKrivonis/react-ecommerce-store.git
 
-cd Nice-Gadgets
+cd react-ecommerce-store
 ```
 
 ### 2. Install dependencies

@@ -1,9 +1,62 @@
-# React TypeScript Starter Pack
+# Nice-Gadgets — Interactive Catalog with Cart, Filters, and Product Details
 
-To use this template click `Use this template`
+A modern and responsive online catalog that highlights a wide range of smartphone models. The application allows users to explore products, filter items by brand or price, view detailed specifications on dedicated product pages, and enjoy a smooth, visually appealing browsing experience with intuitive navigation.
 
-### Available Scripts
+## Live Preview
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
+[Live Demo](https://artemkrivonis.github.io/react-ecommerce-store/)
+Check out the deployed project online.
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## 🖥️ Technologies Used
+
+- **React** – Component-based UI development
+- **Redux Toolkit & React-Redux** – Efficient state management
+- **React Router v6** – Seamless navigation between pages
+- **SCSS (BEM methodology)** – Modular and maintainable styling
+- **Bulma CSS framework** – Pre-styled UI components
+- **Swiper & Slick Carousel** – Interactive sliders
+- **Font Awesome, Lucide React** – Icon libraries
+- **React Spinners, React Transition Group** – Loaders and smooth animations
+
+## Getting Started
+
+Follow the steps below to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ArtemKrivonis/react-ecommerce-store.git
+
+cd Nice-Gadgets
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+# or
+yarn install
+```
+
+### 3. Run the project locally
+
+```bash
+npm start
+# or
+yarn start
+```
+
+## Features
+
+- **Product Catalog**: Browse smartphones with images and short descriptions.
+- **Advanced Filters**: Search and filter items by brand, price, or name.
+- **Detailed Pages**: View specifications, photo sliders, and action buttons.
+- **Cart & Favorites**: Manage selected products with Redux state management.
+- **Smooth Navigation**: Fast and responsive routing with React Router v6.
+- **Modern UI**: Styled with Bulma, SCSS, and rich icon libraries.
+- **Responsive Layout**: Optimized for desktop, tablet, and mobile screens.
+- **Interactive Experience**: Animations, transitions, and loading spinners.
+
+---
+
+✨ Explore a sleek and functional product catalog with an engaging shopping experience!

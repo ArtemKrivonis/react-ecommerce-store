@@ -1,4 +1,4 @@
-# Nice-Gadgets — Interactive Catalog with Cart, Filters, and Product Details
+# React-Ecommerce-Store — Interactive Catalog with Cart, Filters, and Product Details
 
 A modern and responsive online catalog that highlights a wide range of smartphone models. The application allows users to explore products, filter items by brand or price, view detailed specifications on dedicated product pages, and enjoy a smooth, visually appealing browsing experience with intuitive navigation.
 
